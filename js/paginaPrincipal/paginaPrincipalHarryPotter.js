@@ -261,7 +261,6 @@ function visibleAdministrar(){
 function close_window() {
     alert("!ALOHOMORA")
     close();
-    
 }
 
 function aceptar(){
